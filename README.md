@@ -26,9 +26,9 @@ razancode@gmail.com,
 Youtube: https://www.youtube.com/@razancode
 
 # Hope you enjoy. Your Stronghold awaits you.
-Release 1.0; Title: Far Kingdom, by: Razan<br />
+Beta version; Title: Far Kingdom, by: Razan<br />
 ![screen_capture_003](https://github.com/RazanCo/Stronghold-HD-Night-MODE/assets/150191291/f2ab9d29-6545-490f-93f0-49cbfdf8e296)<br />
-Beta version; Title: Greedy Scribe, by: Razan<br />
+Release 1.0; Title: Greedy Scribe, by: Razan<br />
 ![screen_capture_007](https://github.com/RazanCo/Stronghold-HD-Night-MODE/assets/150191291/9512b515-f369-437b-955f-6e982ac4fb20)<br />
 Title: Defending Motte, by: Razan<br />
 ![Motte defense](https://github.com/RazanCo/SH1-Night-Mode/assets/150191291/7afe6747-8552-4ee6-9aae-978f4cd8798a)<br />
