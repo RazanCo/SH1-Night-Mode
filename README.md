@@ -21,10 +21,6 @@ If using Steam:
   - find "gm" folder and replace it with downloaded "gm" folder. (recommended to make a backup)
   - After replacing "gm" folder you can immediately start playing Stronghold HD.
 
-# My Contact
-razancode@gmail.com,
-Youtube: https://www.youtube.com/@razancode
-
 # Hope you enjoy. Your Stronghold awaits you.
 Beta version; Title: Far Kingdom, by: Razan<br />
 ![screen_capture_003](https://github.com/RazanCo/Stronghold-HD-Night-MODE/assets/150191291/f2ab9d29-6545-490f-93f0-49cbfdf8e296)<br />
